@@ -21,4 +21,4 @@
 
 #### Allar aðgerðir og skráningar (Branches/Commits) eiga að vera í sögu skjalana ( Commits / History ) á GitHub. Ef skráningarsagan (commits) fylgir ekki með þá er engin einkun gefin fyrir verkefnið.  
 
-### Verkefnaskil: setjið tengil/tengla á GitHub reikning í 'Athugasemdir' í Innu. 
+### Verkefnaskil: setjið tengil sem vísar á GitHub reikningin þinn í <i>'Athugasemdir'</i> í Innu. 
