@@ -10,7 +10,7 @@
 	*	Í möppunni Einstaklingsverefni er .pdf skrá. Fylgdu leiðbeiningunum í verklýsingunni.
 *	**Hópverkefni**
 	*	2-3 nemendur búa til eina geymslu <i>(repository)</i> á GitHub og deila aðgangi að geymslunni á milli sín.  
-	*	Hver nemandi býr til nýja vefsíðu útfrá index síðunni með nýju stílsniði (Efnistök frjáls). 
+	*	Í möppunni "Hópverkefni" er vefsíða og stílsíða. Hver nemandi býr til nýja vefsíðu útfrá index síðunni með nýju stílsniði (Efnistök frjáls). 
 	*	Tengið síðurnar saman <i>(link)</i> og setjið á tsuts miðlarann 
 	* 	Setjið tengil á vefinn í README.md skrána
 
