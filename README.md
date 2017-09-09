@@ -1,14 +1,14 @@
 
-# GitHub VSH2 verkefni 
+# VSH2 GitHub verkefni 
 
 ## verklýsing:
 
-*	GitHub - <i>(Fork & Clone) </i>
+*	**GitHub** - <i>(Fork & Clone) </i>
 	*	Afritaðu þessa geymslu (https://github.com/VSH24/github_verkefni (<i>e. repository</i>)) með<br> goggunaraðferðinni <b> „Fork Repository“ </b>  á eigin GitHub reikning (<i>GitHub Account</i>) 
 	*	Settu Geymsluna á local vinnusvæði með <i>„Git clone“</i> og leysið verkefnið samkvæmt verklýsingunni hér að neðan.
-*	Einstaklingsverkefni
+*	**Einstaklingsverkefni**
 	*	Fylgdu leiðbeiningunum í verklýsingunni.
-*	Hópverkefni
+*	**Hópverkefni**
 	*	2-3 nemendur búa til eina geymslu <i>(repository)</i> á GitHub og deila aðgangi að geymslunni á milli sín.  
 	*	Hver nemandi býr til nýja vefsíðu útfrá index síðunni með nýju stílsniði.
 	*	Tengið síðurnar saman <i>(link)</i> og setjið á tsuts miðlarann 
