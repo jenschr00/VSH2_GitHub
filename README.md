@@ -4,15 +4,15 @@
 ## verklýsing:
 
 *	**GitHub** - <i>(Fork & Clone) </i>
-	*	Afritaðu þessa geymslu (https://github.com/VSH24/github_verkefni (<i>e. repository</i>)) með<br> goggunaraðferðinni <b> „Fork Repository“ </b>  á eigin GitHub reikning (<i>GitHub Account</i>) 
-	*	Settu Geymsluna á local vinnusvæði með <i>„Git clone“</i> og leysið verkefnið samkvæmt verklýsingu.
+	*	Afritaðu þessa geymslu (https://github.com/vefhonnun/VSH2_GitHub/ (<i>e. repository</i>)) með goggunaraðferðinni <b> „Fork Repository“ </b>  á eigin GitHub reikning (<i>GitHub Account</i>) 
+	*	Afritaðu geymsluna á tölvuna þína með <i>„Git clone“</i> og leysið verkefnið samkvæmt verklýsingu.
 *	**Einstaklingsverkefni**
 	*	Í möppunni "Einstaklingsverefni" er .pdf skrá. Fylgdu leiðbeiningunum í verklýsingunni.
 *	**Hópverkefni**
 	*	2-3 nemendur búa til eina geymslu <i>(repository)</i> á GitHub og deila aðgangi að geymslunni á milli sín.  
 	*	Í möppunni "Hópverkefni" er vefsíða og stílsíða. Hver nemandi býr til nýja vefsíðu útfrá index síðunni með nýju stílsniði (Efnistök frjáls). 
-	*	Tengið síðurnar saman <i>(link)</i> og setjið á tsuts miðlarann 
-	* 	Setjið tengil á vefinn í README.md skrána
+	*	Tengið síðurnar saman <i>(link)</i> og setjið síðan á tsuts.tskoli.is miðlarann 
+	* 	Setjið tengil í README.md skrána sem vísar á vefinn.
 
 ### Námsmat:
 *	Á GitHub reikningi á að vera 
