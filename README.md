@@ -6,6 +6,7 @@
 *	**GitHub** - <i>(Fork & Clone) </i>
 	*	Afritaðu þessa geymslu (https://github.com/vefhonnun/VSH2_GitHub/ (<i>e. repository</i>)) með <br> goggunaraðferðinni <b> „Fork Repository“ </b>  á eigin GitHub reikning (<i>GitHub Account</i>) 
 	*	Afritaðu geymsluna á tölvuna þína með <i>„Git clone“</i> og leysið verkefnin tvö sem eru þar.
+	*	Uppfærið verkefnið reglulega á Github með færslum (<i>commits</i>)
 *	**Einstaklingsverkefni**
 	*	Í möppunni "Einstaklingsverkefni" er verklýsing.pdf skrá. Fylgdu leiðbeiningunum í henni.
 *	**Hópverkefni**
