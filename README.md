@@ -11,7 +11,7 @@
 *	**Hópverkefni**
 	*	2-3 nemendur búa til eina geymslu <i>(repository)</i> á GitHub og deila aðgangi að geymslunni á milli sín.  
 	*	Í möppunni "Hópverkefni" er vefsíða og stílsíða. Hver nemandi býr til nýja vefsíðu útfrá index síðunni með nýju stílsniði (Efnistök frjáls). 
-	*	Öll vinna við hópverkegifnið á að vera vaktað með GIT útgáfustjórnun og munið að skrá ($ git commit -m 'lýsing...') reglulega í umsjónarkerfið*
+	*	Öll vinna við hópverkefnið á að vera vaktað með GIT útgáfustjórnun og munið að skrá ($ git commit -m 'lýsing...') reglulega í umsjónarkerfið*
 	*	Tengið síðurnar saman <i>(link)</i> og setjið síðan á tsuts.tskoli.is miðlarann 
 	* 	Setjið tengil í README.md skrána sem vísar á vefinn.
 
