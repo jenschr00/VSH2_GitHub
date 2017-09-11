@@ -4,8 +4,8 @@
 ## verklýsing:
 
 *	**GitHub** - Afritun _(Fork & Clone)_
-	*	Afritaðu þessa geymslu (https://github.com/vefhonnun/VSH2_GitHub/ (_e. repository_)) með <br> goggunaraðferðinni <b> „Fork Repository“ </b>  á eigin GitHub reikning (_GitHub Account_) 
-	*	Afritaðu geymsluna á tölvuna þína með _„Git clone“_ og leysið verkefnin tvö sem eru þar.
+	*	Afritaðu þessa geymslu (https://github.com/vefhonnun/VSH2_GitHub/ (_e. repository_)) með <br> goggunaraðferðinni _**„Fork Repository“**_  á eigin GitHub reikning (_GitHub Account_) 
+	*	Afritaðu geymsluna á tölvuna þína með _**„Git clone“**_ og leysið verkefnin tvö sem eru þar.
 	*	Uppfærið verkefnið reglulega á Github með færslum (_commits_)
 
 *	**Einstaklingsverkefni**
