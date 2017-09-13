@@ -11,7 +11,9 @@
 	*	2-3 nemendur búa til eina geymslu _(repository)_ á GitHub og deila aðgangi að geymslunni á milli sín. **(sjá nánar í lesefni/Samstarf á GitHub.pdf)**
 	*	Í möppunni "Hópverkefni" er vefsíða og stílsíða. Hver nemandi á að búa til nýja grein **_(branch)_** þar sem index síðan er með nýju stílsniði _(Efnistök frjáls)_. 
 	*	Öll vinna við hópverkefnið á að vera vaktað með GIT útgáfustjórnun og munið að skrá ($ git commit -m 'lýsing...') reglulega í umsjónarkerfið*
-	*	Tengið síðurnar saman _(link)_ og setjið síðan á tsuts.tskoli.is miðlarann 
+	*	Búið til nýja möppu með heitinu "htdocs" og setjið vefsíðu (index.html) og stílsíðu þar. Innihald síðna er í ykkar höndum.
+	*	Hlaðið _(push)_ inn möppunni í GitHub geymsluna ykkar
+	*	Farið eftir leiðbeiningum hér í lesefni "uppsetning vefsíðu í GitHub.pdf" og tengið vefsíðuna við GitHub geymsluna.
 	* 	Setjið tengil í README.md skrána sem vísar á vefinn.
 
 *	**Einstaklingsverkefni**
