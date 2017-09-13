@@ -26,7 +26,7 @@
 ### Námsmat:
 *	Á GitHub reikningi á að vera sameiginleg geymsla/repository hópsins. 
 *   Allir meðlimir hópsins hafa gert a.m.k. eina grein (branch) af stílsíðunni.
-*	Vefsíða á að vera tengt geymslunni sbr. verklýsingu hér að ofan.
+*	Vefsíða á að vera tengd geymslunni sbr. verklýsingu hér að ofan.
 
 #### * Allar aðgerðir og skráningar (Branches/Commits) eiga að vera í sögu skjalana ( Commits / History ) á GitHub. Ef skráningarsagan (commits) fylgir ekki með þá er engin einkun gefin fyrir verkefnið.  
 
