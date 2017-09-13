@@ -13,8 +13,9 @@
 	*	Öll vinna við hópverkefnið á að vera vaktað með GIT útgáfustjórnun og munið að skrá ($ git commit -m 'lýsing...') reglulega í umsjónarkerfið*
 	*	Búið til nýja möppu með heitinu "docs" og setjið vefsíðu (index.html) og stílsíðu þar. Innihald síðna er í ykkar höndum.
 	*	Hlaðið _(push)_ inn möppunni í GitHub geymsluna ykkar
-	*	Farið eftir leiðbeiningum hér í lesefni "uppsetning vefsíðu í GitHub.pdf" og tengið vefsíðuna við GitHub geymsluna.
-	* 	Setjið tengil í README.md skrána sem vísar á vefinn.
+	*	Farið eftir leiðbeiningum hér í lesefni _"Vefsíða tengd GitHub geymlsu.pdf"_ og tengið vefsíðuna við GitHub geymsluna.
+	* 	Setjið tengil í README.md skrána sem vísar á vefinn eins og hér er sýnt.
+		*	https://vefhonnun.github.io/VSH2_GitHub/
 
 *	**Einstaklingsverkefni**
 	*	Verkefnið er tekið fyrir í TÆK áfanganum en verklýsingin er hér í möppu. Það á að skila því á ÞINN GitHub reikning.
